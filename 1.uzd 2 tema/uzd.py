@@ -47,7 +47,7 @@ elif R>A:
     R-=A
     print(f'Jādodas uz Rietumiem {R} reizi(es)')
 
-print('Atā')
+
 
 
         
