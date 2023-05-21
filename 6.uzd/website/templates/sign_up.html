@@ -1,0 +1,30 @@
+{% extends "base.html" %} {% block title %}Jauns Lietotājs{% endblock %} {% block
+    content %}
+    <form method="POST">
+      <h3 align="center">Jauns Lietotājs</h3>
+      <div class="form-group">
+        <label for="name">Vārds</label>
+        <input
+          type="text "
+          class="form-control"
+          id="name"
+          name="name"
+          placeholder="Vārds"
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="surname">Uzvārds</label>
+        <input
+          type="text "
+          class="form-control"
+          id="surname"
+          name="surname"
+          placeholder="Uzvārds"
+        />
+      </div>
+     
+      <br />
+      <button type="submit" class="btn btn-primary">Saglabāt</button>
+    </form>
+    {% endblock %}

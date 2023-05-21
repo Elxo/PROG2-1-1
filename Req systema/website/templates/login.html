@@ -1,0 +1,28 @@
+{% extends "base.html" %} {% block title %}Pierakstīties{% endblock %} {% block content
+    %}
+    <form method="POST">
+      <h3 align="center">Pierakstīties</h3>
+      <div class="form-group">
+        <label for="email">E-pasta adrese</label>
+        <input
+          type="email"
+          class="form-control"
+          id="email"
+          name="email"
+          placeholder="ievadi e-pastu"
+        />
+      </div>
+      <div class="form-group">
+        <label for="password">Parole</label>
+        <input
+          type="password"
+          class="form-control"
+          id="password"
+          name="password"
+          placeholder="Ievadi paroli"
+        />
+      </div>
+      <br />
+      <button type="submit" class="btn btn-primary">Pierakstīties</button>
+    </form>
+    {% endblock %}
