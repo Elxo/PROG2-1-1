@@ -1,0 +1,16 @@
+
+Programmas iespējas. 
+Ja web lapa tiek izmantota ar aktīvu interneta pieslēgumu, tad ir iespējams individuālim vai arī grupai pieslēgties programmai un ievadīt savas piezīmes, kuras bus pieejamas no jebkuras ierīces ar internetu.
+
+
+
+Programmatūras prasības:
+Programma , kuru ir iespējams publicēt internetā. Programmas funkcija ir piezīmju pievienošana, katram lietotājam atsevišķi un iespēja tās izdzēst.
+Programmas web lapa ir latviešu valodā.
+
+
+Programmatūrass izstrādes plāns.
+Izveidot reģistrācijas sistēmu. Pievienot opciju pievienot/noņemt piezīmes. (Ar datubāzi)
+Flask izmantošana.
+Nieliels noformējums ar html un css.
+
