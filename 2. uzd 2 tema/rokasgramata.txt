@@ -1,0 +1,6 @@
+Lietotāja ceļvedis.
+
+Atverot lapu parādās Pierakstīšanās lapa, kurā jums ir jāizmanto savs epasts un parole.
+Ja jūs neesat reģistrējies, izmantojiet Reģistrācijas opciju kreisajā augšajā stūrī.
+
+Kad esat Pierakstījies, varat izmantot piezīmju rakstīšanas opciju. Ja vēlaties noņemt piezīmi, tad spiediet krustiņu piezīmes labajā pusē. 
